@@ -28,7 +28,7 @@ metrics-exporter-statsd = "0.7"
 # TODO: only include this for migrate-codes bin
 mongodb = "2.8.1"
 ordered-float = "4.2.0"
-rand = "0.8.5"
+rand = "0.9.3"
 rayon = "1.8.1"
 reqwest = { version = "0.11.24", features = ["json"] }
 serde = { version = "1.0.195", features = ["derive"] }
